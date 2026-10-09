@@ -1,0 +1,30 @@
+{
+  "_comment": "label — имя класса для stylo (без '_' и пробелов). genius_names — под какими именами искать страницы на Genius. aliases — как исполнитель подписан в заголовках секций ([Куплет 1: ...]). personas — альтер-эго (только для целевого автора).",
+  "target": {
+    "label": "SlavaKPSS",
+    "genius_names": [
+      "Слава КПСС",
+      "Гнойный",
+      "Соня Мармеладова",
+      "Валентин Дядька",
+      "Антихайп"
+    ],
+    "personas": {
+      "SlavaKPSS": ["Слава КПСС", "Slava KPSS", "КПСС", "Вячеслав Машнов", "Слава Машнов"],
+      "Gnoyny": ["Гнойный", "Gnoyny", "Слава Гнойный"],
+      "SonyaMarmeladova": ["Соня Мармеладова", "Sonya Marmeladova", "Соня"],
+      "ValentinDyadka": ["Валентин Дядька", "Valentin Dyadka"]
+    }
+  },
+  "reference": [
+    {"label": "Oxxxymiron", "genius_names": ["Oxxxymiron"], "aliases": ["Oxxxymiron", "Оксимирон", "Окси", "Мирон"]},
+    {"label": "Zamay", "genius_names": ["Замай"], "aliases": ["Замай", "Zamay", "Андрей Замай"]},
+    {"label": "Husky", "genius_names": ["Хаски"], "aliases": ["Хаски", "Husky"]},
+    {"label": "NoizeMC", "genius_names": ["Noize MC"], "aliases": ["Noize MC", "Нойз", "Noize"]},
+    {"label": "Basta", "genius_names": ["Баста"], "aliases": ["Баста", "Basta", "Ноггано", "Noggano"]},
+    {"label": "Scriptonite", "genius_names": ["Скриптонит"], "aliases": ["Скриптонит", "Scriptonite"]},
+    {"label": "ATL", "genius_names": ["ATL"], "aliases": ["ATL"]},
+    {"label": "Face", "genius_names": ["FACE"], "aliases": ["FACE", "Фейс"]},
+    {"label": "Ernesto", "genius_names": ["Эрнесто Заткнитесь"], "aliases": ["Эрнесто Заткнитесь", "Ernesto Zatknites", "Эрнесто"]}
+  ]
+}

@@ -1,0 +1,11 @@
+# Тексты песен защищены авторским правом — по умолчанию не коммитим
+data/
+app/data/
+results/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.Rhistory
+.RData
+rsconnect/

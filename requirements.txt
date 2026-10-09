@@ -1,0 +1,2 @@
+lyricsgenius>=3.0
+pytest>=7
